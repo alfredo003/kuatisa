@@ -1,0 +1,34 @@
+Main-color:rgba(0,81,187,1)
+------------------------------
+Menu:
+	- Pagina Inicial
+  	- Servicos
+	- Sobre
+        - Entrar
+------------------------------
+Conteudo :
+
+* O que voce pode fazer com o kuatisa?
+
+Sao 3 pacos simples para voce comecar a utiliza o kuatisa. E tudo muito facil, veja:
+
+  - Procurar proficionais
+  - Procurar empregos
+  - Publicitar Negócio / Serviço
+
+
+
+
+ERROS:
+
+Conteudo indispinivel 
+Sentimos muito, mas o conteudo que voce tentou acessar
+nao existe, esta indisponivel no momento ou foi removido :/
+
+
+-------------------------------
+Rodape:
+ 	-Sobre 
+	-Mais
+	-Contactos
+	-Redel Social
